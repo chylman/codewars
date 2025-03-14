@@ -2,11 +2,10 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.tsx'
-import {century} from "./katas/07.ts";
-import {addLength} from "./katas/08.ts";
+import {digitize} from "./katas/10.ts";
 
 
-console.log(addLength(`jksdfjkd sdkfjksdf skdjfksdj `))
+console.log(digitize(2354364364))
 
 
 createRoot(document.getElementById('root')!).render(
