@@ -1,7 +1,6 @@
 import {createRoot} from 'react-dom/client'
 import './index.css'
 import App from './App.tsx'
-import {maskify} from "./katas/19.ts";
 import {maxPossibleScore} from "./katas/21.ts";
 
 
