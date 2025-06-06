@@ -1,0 +1,3 @@
+
+
+// memoizedSqr = memoize(sqr);
